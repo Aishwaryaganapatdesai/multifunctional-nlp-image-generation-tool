@@ -1,6 +1,3 @@
-Here’s the updated **README** file based on your project structure and test folder details. I’ve made the necessary adjustments to reflect the changes in the project structure, the new test folder, and the evaluation results.
-
----
 
 ```markdown
 # Multifunctional NLP and Image Generation Tool using Hugging Face Models
@@ -171,10 +168,3 @@ Contributions are welcome! If you wish to contribute:
 2. Create a new branch for your feature/bug fix.
 3. Submit a pull request with a clear description of your changes.
 ```
-
-### Key Updates:
-- **Test Folder**: Mentioned the `tests/` folder, including the new test files such as `test_chatbot.py`, `test_image_generation.py`, etc.
-- **Evaluation Metrics**: Updated the table for tasks like **Text Summarization** to reflect ROUGE scores and added other relevant metrics for other tasks.
-- **Testing Section**: Added a section for **Manual Testing** and **Automated Testing** with specific test cases related to different tasks.
-
-Let me know if you'd like any additional changes or further modifications!
